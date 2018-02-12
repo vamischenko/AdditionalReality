@@ -1,0 +1,4 @@
+<resources>
+    <declare-styleable name="RectangleView">
+    </declare-styleable>
+</resources>
